@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 0 4px;
+}
+.text-red-500{
+    color: #f51818;
+}
+
+.my-4{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
